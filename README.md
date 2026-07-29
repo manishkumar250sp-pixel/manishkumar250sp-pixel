@@ -29,26 +29,4 @@
       <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="250" alt="rainbow line" />
     </td>
 
-    <!-- RIGHT SIDE: Content -->
-    <td width="65%" valign="top">
-      <h3>🛠️ My Tech Skills</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-        <br />
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-      </p>
-
-      <h3>🚀 What I'm Building</h3>
-      <ul>
-        <li><b>Zero Contact X:</b> A modular magnetic levitation platform utilizing same-pole repulsion and an Arduino Uno control loop.</li>
-        <li><b>MediReach:</b> A network-independent emergency communication device that uses LoRa and ESP32 microcontrollers.</li>
-        <li><b>The Student HR:</b> A secure engineering notes portal featuring file-filtering systems and admin approval workflows.</li>
-      </ul>
-
-      <h3>📊 My GitHub Stats</h3>
-      <img src="
+  
