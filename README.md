@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_GENERATED_ANIMATION_URL.svg" alt="Animated Profile Effect" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated Profile Effect" width="500" />
 </div>
 <h1 align="center">Hi, I'm Manish Kumar 👋</h1>
 <h3 align="center">Electronics and Communication Engineer & Developer</h3>
