@@ -14,5 +14,5 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </div>
