@@ -8,7 +8,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Hardware+%26+Software+Developer;Building+Zero+Contact+X" alt="Typing Animation" />
 </div>
 
----
+<br />
+
+<!-- 3. The Animated Dot ID Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="350">
+        <h2>🧑‍💻 DEVELOPER ID CARD</h2>
+        <br />
+        <!-- Change the link below to your uploaded dot face GIF -->
+        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Dot Animation" />
+        <br />
+        <h3>Manish Kumar</h3>
+        <p><b>Role:</b> Electronics Engineer & Web Developer</p>
+        <p><b>ID No:</b> manishkumar250sp-pixel</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
 
 ### 🛠️ My Tech Skills
 *   **Software:** React, Next.js, Node.js, Firebase, Supabase, C++
@@ -21,7 +41,7 @@
 
 ### 📊 My GitHub Stats
 
-<!-- 3. The Dark Theme Stats Cards -->
+<!-- 4. The Dark Theme Stats Cards -->
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
