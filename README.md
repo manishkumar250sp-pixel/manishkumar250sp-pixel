@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F77290,100:00FFFF&height=220&section=header&text=Manish%20Kumar&fontSize=68&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Electronics%20%26%20Communication%20Engineer&descAlignY=55&descSize=18" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Manish%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" width="100%"/>
 </div>
 
 <div align="center">
@@ -21,36 +21,33 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="35%" align="center" valign="top">
+<div align="center">
 
-### 🪪 ECE ID CARD
+### 🪪 ECE ID Card
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="250" alt="divider"/>
+<table>
+<tr><td align="center">
 
+<img src="https://images.weserv.nl/?url=https://github.com/manishkumar250sp-pixel.png&w=110&h=110&fit=cover&mask=circle" width="110" alt="Profile Photo"/>
+
+<h3>Manish Kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20" alt="verified"/></h3>
+
+Electronics & Comm. Eng. · HR College
 <br/>
-
-<img src="https://images.weserv.nl/?url=https://github.com/manishkumar250sp-pixel.png&w=140&h=140&fit=cover&mask=circle" width="140" alt="Profile Photo"/>
+<sub>github.com/manishkumar250sp-pixel</sub>
 
 <br/><br/>
 
-## Manish Kumar <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25" alt="verified"/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=90x90&data=https://github.com/manishkumar250sp-pixel" width="80" alt="QR Code"/>
+<br/>
+<sub><i>scan to view profile</i></sub>
 
-**Dept:** Electronics & Comm. Eng.
-**College:** HR College
-**GitHub:** manishkumar250sp-pixel
+</td></tr>
+</table>
+
+</div>
 
 <br/>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/manishkumar250sp-pixel" width="80" alt="QR Code"/>
-
-<sub><i>Scan to view profile</i></sub>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="250" alt="divider"/>
-
-</td>
-<td width="65%" valign="top">
 
 ### 🛠️ Tech Stack
 
@@ -72,60 +69,42 @@
 ![VLSI Design](https://img.shields.io/badge/VLSI%20Design-4B0082?style=for-the-badge)
 ![DSP](https://img.shields.io/badge/Signal%20Processing-800080?style=for-the-badge)
 
+<br/>
+
 ### 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**📡 MediReach**
+#### 📡 MediReach
 Network-independent emergency comms device — ESP32 + LoRa (SX1276) mesh that transmits medical alerts with zero cellular connectivity.
-`ESP32` `LoRa` `FreeRTOS`
+`ESP32` `LoRa` `FreeRTOS` `AES-128`
 
-</td>
-<td width="50%" valign="top">
-
-**🧲 Zero Contact X**
+#### 🧲 Zero Contact X
 Modular magnetic levitation platform using same-pole repulsion, stabilized by a closed-loop Arduino Uno control system.
-`Arduino` `Control Systems`
+`Arduino` `Control Systems` `Mag-Lev`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 THE STUDENT**
+#### 🎓 THE STUDENT
 Secure academic notes portal for HR College ECE/VLSI students — Firebase Auth, real-time presence, admin-gated uploads.
 `Next.js` `Firebase` `Firestore`
 
-</td>
-<td width="50%" valign="top">
-
-**🖐️ SiliconSorcery AR**
+#### 🖐️ SiliconSorcery AR
 Gesture-controlled AR app for VLSI concepts — hand-tracked CMOS assembly with real-time field visualization.
 `MediaPipe` `Three.js` `WebGL`
 
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
 <br/>
-
-<div align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&count_private=true" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=manishkumar250sp-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:F77290&height=120&section=footer" alt="Footer Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer Banner" width="100%"/>
 </div>
