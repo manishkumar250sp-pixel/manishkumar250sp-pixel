@@ -1,4 +1,4 @@
-<!-- 1. The Header Image (Capsule Render) -->
+<!-- 1. The Header Image -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Manish%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
@@ -10,19 +10,24 @@
 
 <br />
 
-<!-- 3. The ID Card with Your Photo -->
+<!-- 3. Your ECE ID Card -->
 <div align="center">
-  <table>
+  <table border="1">
     <tr>
-      <td align="center" width="350">
-        <h2>🧑‍💻 DEVELOPER ID CARD</h2>
+      <td align="center" width="300">
+        <h3>🪪 ECE DEVELOPER ID</h3>
+        <hr>
         <br />
-        <!-- This automatically pulls your real GitHub profile picture -->
-        <img src="https://github.com/manishkumar250sp-pixel.png" width="180" alt="My Profile Photo" />
+        <img src="https://github.com/manishkumar250sp-pixel.png" width="150" alt="My Profile Photo" />
         <br />
-        <h3>Manish Kumar</h3>
-        <p><b>Role:</b> Electronics Engineer & Web Developer</p>
+        <h2>Manish Kumar</h2>
+        <p><b>Dept:</b> Electronics & Communication Eng.</p>
         <p><b>ID No:</b> manishkumar250sp-pixel</p>
+        <br />
+        <!-- Real working QR Code for your GitHub -->
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://github.com/manishkumar250sp-pixel" width="80" alt="QR Code" />
+        <br />
+        <p><i>Scan to view profile</i></p>
       </td>
     </tr>
   </table>
