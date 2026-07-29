@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="my-animation.gif" width="600" />
+</div>
 <h1 align="center">Hi, I'm Manish Kumar 👋</h1>
 <h3 align="center">Electronics and Communication Engineer & Developer</h3>
 
