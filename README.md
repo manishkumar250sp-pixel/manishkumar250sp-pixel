@@ -11,18 +11,18 @@
 </div>
 <br/>
 
-<h3 align="center">🪪 ECE ID Card</h3>
+<h3 align="center">🪪 ECE </h3>
 <div align="center">
-<table width="60%">
+<table width="80%">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="60%">
 <img src="https://images.weserv.nl/?url=https://github.com/manishkumar250sp-pixel.png&w=100&h=100&fit=cover&mask=circle" width="100" alt="Profile Photo"/>
 <br/>
-<b>Manish Kumar</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="16" alt="verified"/>
+<b>Manish Kumar</b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="18" alt="verified"/>
 <br/>
 <sub>Electronics & Comm. Eng.</sub>
 <br/>
-<sub>HR College</sub>
+<sub>Presidency university</sub>
 </td>
 <td align="center" width="50%">
 <img src="https://api.qrserver.com/v1/create-qr-code/?size=90x90&data=https://github.com/manishkumar250sp-pixel" width="80" alt="QR Code"/>
