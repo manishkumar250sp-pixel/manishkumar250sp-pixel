@@ -51,7 +51,4 @@
       </ul>
 
       <h3>📊 My GitHub Stats</h3>
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
+      <img src="
