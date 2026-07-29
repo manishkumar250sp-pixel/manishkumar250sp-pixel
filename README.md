@@ -10,15 +10,15 @@
 
 <br />
 
-<!-- 3. The Animated Dot ID Card -->
+<!-- 3. The ID Card with Your Photo -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="350">
         <h2>🧑‍💻 DEVELOPER ID CARD</h2>
         <br />
-        <!-- Change the link below to your uploaded dot face GIF -->
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Dot Animation" />
+        <!-- This automatically pulls your real GitHub profile picture -->
+        <img src="https://github.com/manishkumar250sp-pixel.png" width="180" alt="My Profile Photo" />
         <br />
         <h3>Manish Kumar</h3>
         <p><b>Role:</b> Electronics Engineer & Web Developer</p>
