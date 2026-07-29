@@ -1,8 +1,12 @@
+<!-- 1. The Header Image (Capsule Render) -->
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Animated Profile Effect" width="500" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Manish%20Kumar&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
 </div>
-<h1 align="center">Hi, I'm Manish Kumar 👋</h1>
-<h3 align="center">Electronics and Communication Engineer & Developer</h3>
+
+<!-- 2. The Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineer;Hardware+%26+Software+Developer;Building+Zero+Contact+X" alt="Typing Animation" />
+</div>
 
 ---
 
@@ -16,6 +20,9 @@
 *   **The Student HR:** A secure engineering notes portal featuring file-filtering systems and admin approval workflows, built with Next.js.
 
 ### 📊 My GitHub Stats
+
+<!-- 3. The Dark Theme Stats Cards -->
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
