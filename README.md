@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Manish Kumar 👋</h1>
+<h3 align="center">Electronics and Communication Engineer & Developer</h3>
 
-<!--
-**manishkumar250sp-pixel/manishkumar250sp-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Skills
+*   **Software:** React, Next.js, Node.js, Firebase, Supabase, C++
+*   **Hardware:** Arduino, ESP32, LoRa, VLSI Design, Digital Signal Processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+*   **Zero Contact X:** A modular magnetic levitation platform utilizing same-pole repulsion and an Arduino Uno control loop.
+*   **MediReach:** A network-independent emergency communication device that uses LoRa and ESP32 microcontrollers to transmit alert signals without cellular connectivity.
+*   **The Student HR:** A secure engineering notes portal featuring file-filtering systems and admin approval workflows, built with Next.js.
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</div>
