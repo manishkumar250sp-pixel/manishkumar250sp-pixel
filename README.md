@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080B16,45:25104A,100:7B2FF7&text=MANISH%20KUMAR&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=ELECTRONICS%20%20%7C%20%20CODE%20%20%7C%20%20ROBOTICS&descSize=16&descAlignY=60&animation=fadeIn&section=header" alt="Animated neon-purple header for Manish Kumar" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080B16,45:25104A,100:7B2FF7&text=MANISH%20KUMAR&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=ELECTRONICS%20%20%7C%20%20CODE%20%20%7C%20%20ROBOTICS&descSize=16&descAlignY=60&animation=twinkling&section=header" alt="Animated neon-purple header for Manish Kumar" />
 
 <a href="https://github.com/manishkumar250sp-pixel">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=52&lines=Electronics+%26+Communication+Engineer;Hardware+%2B+Software+Builder;Exploring+VLSI%2C+Robotics+%26+AI;Turning+Ideas+Into+Working+Systems;Always+Learning.+Always+Building." alt="Animated role and focus lines" />
@@ -48,6 +48,12 @@
 | 🔥 **NARUTO** | 🌙 **ITACHI** | 🌀 **OBITO** | ⚡ **GOKU** |
 |:---:|:---:|:---:|:---:|
 | Never-give-up energy | Quiet strategy | Comeback arc | Limitless learning |
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=2200&pause=700&color=FF4655&center=true&vCenter=true&width=620&height=36&lines=BUILD+MODE%3A+ONLINE;CURIOSITY%3A+UNLIMITED;NEXT+IDEA%3A+LOADING..." alt="Animated build status" />
 
 </div>
 
@@ -149,6 +155,6 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7B2FF7,55:25104A,100:080B16&section=footer&text=BUILD%20%2F%20EXPLORE%20%2F%20INNOVATE&fontColor=FFFFFF&fontSize=22&fontAlignY=55&animation=fadeIn" alt="Animated footer: Build, Explore, Innovate" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7B2FF7,55:25104A,100:080B16&section=footer&text=BUILD%20%2F%20EXPLORE%20%2F%20INNOVATE&fontColor=FFFFFF&fontSize=22&fontAlignY=55&animation=blinking" alt="Animated footer: Build, Explore, Innovate" />
 
 </div>
