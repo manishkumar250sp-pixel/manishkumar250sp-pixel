@@ -1,4 +1,3 @@
-![Uploading divider.svg…]()
 <div align="center">
 
 <img src="assets/header.svg" alt="Manish Kumar - animated neon header" width="100%"/>
