@@ -1,160 +1,186 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:080B16,45:25104A,100:7B2FF7&text=MANISH%20KUMAR&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=ELECTRONICS%20%20%7C%20%20CODE%20%20%7C%20%20ROBOTICS&descSize=16&descAlignY=60&animation=twinkling&section=header" alt="Animated neon-purple header for Manish Kumar" />
+<img src="assets/header.svg" alt="Manish Kumar - animated neon header" width="100%"/>
 
-<a href="https://github.com/manishkumar250sp-pixel">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=2600&pause=800&color=00D9FF&center=true&vCenter=true&width=760&height=52&lines=Electronics+%26+Communication+Engineer;Hardware+%2B+Software+Builder;Exploring+VLSI%2C+Robotics+%26+AI;Turning+Ideas+Into+Working+Systems;Always+Learning.+Always+Building." alt="Animated role and focus lines" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Electronics+%26+Communication+Engineer;Hardware+%2B+Software+Developer;VLSI+Enthusiast;Robotics+%26+Embedded+Systems;Building+Technology+Beyond+Limits" alt="Typing animation: Electronics and Communication Engineer, Hardware + Software Developer, VLSI Enthusiast, Robotics and Embedded Systems, Building Technology Beyond Limits"/>
 
-<br />
+<br/>
 
-<a href="https://github.com/manishkumar250sp-pixel">
-  <img src="https://img.shields.io/badge/GITHUB-manishkumar250sp--pixel-17112C?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views counter" />
+<img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views counter"/>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🧑‍🚀 About Me
 
 <table>
-  <tr>
-    <td width="28%" align="center">
-      <img src="https://github.com/manishkumar250sp-pixel.png?size=240" width="150" alt="Manish Kumar's GitHub avatar" />
-      <br /><br />
-      <strong>MANISH KUMAR</strong><br />
-      <sub>ECE · Presidency University, Bengaluru</sub>
-    </td>
-    <td width="72%" valign="middle">
-      I’m an <strong>Electronics and Communication Engineering</strong> student interested in building at the intersection of hardware and software.
-      <br /><br />
-      🔬 <strong>Exploring:</strong> VLSI, robotics, embedded systems, IoT, AI, and software development<br />
-      🛠️ <strong>Working with:</strong> microcontrollers, sensors, connected devices, and interactive learning ideas<br />
-      🎯 <strong>My approach:</strong> learn by making, testing, and improving useful things
-      <br /><br />
-      <em>“Build things that outlive the doubt.”</em>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="30%">
+<img src="https://github.com/manishkumar250sp-pixel.png?size=200" width="160" alt="Manish Kumar GitHub avatar" style="border-radius:50%"/>
+<br/><br/>
+<b>Manish Kumar</b><br/>
+<sub>ECE Student · Presidency University, Bengaluru</sub>
+<br/><br/>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=6" width="110" alt="QR code linking to github.com/manishkumar250sp-pixel"/>
+</td>
+<td width="70%">
+
+I'm an **Electronics and Communication Engineering** student at **Presidency University, Bengaluru**, working where hardware meets software.
+
+- 🔬 **Domains:** Electronics · VLSI · Robotics · Embedded Systems · IoT · AI · Software Development
+- 🛠️ **I build:** ESP32/LoRa systems, Arduino control loops, web apps, and AR learning tools
+- 🎯 **Goal:** turn engineering ideas into working, useful products
+
+> *"Build things that outlive the doubt."*
+
+</td>
+</tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🎴 Anime Squad
 
-<div align="center">
+<sub>Original emblem cards inspired by the characters' spirit. Optional animated GIF slots are in the README source (see SETUP.md).</sub>
 
-| 🔥 **NARUTO** | 🌙 **ITACHI** | 🌀 **OBITO** | ⚡ **GOKU** |
-|:---:|:---:|:---:|:---:|
-| Never-give-up energy | Quiet strategy | Comeback arc | Limitless learning |
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="assets/naruto.svg" alt="Naruto Uzumaki card: The Never-Give-Up Engineer" width="100%"/>
+<!-- OPTIONAL GIF: <img src="PASTE_NARUTO_GIF_URL" width="100%" alt="Naruto animated GIF"/> -->
+</td>
+<td width="50%" align="center">
+<img src="assets/itachi.svg" alt="Itachi Uchiha card: The Silent Strategist" width="100%"/>
+<!-- OPTIONAL GIF: <img src="PASTE_ITACHI_GIF_URL" width="100%" alt="Itachi animated GIF"/> -->
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="assets/obito.svg" alt="Obito Uchiha card: The Comeback Arc" width="100%"/>
+<!-- OPTIONAL GIF: <img src="PASTE_OBITO_GIF_URL" width="100%" alt="Obito animated GIF"/> -->
+</td>
+<td width="50%" align="center">
+<img src="assets/goku.svg" alt="Goku card: The Limitless Learner" width="100%"/>
+<!-- OPTIONAL GIF: <img src="PASTE_GOKU_GIF_URL" width="100%" alt="Goku animated GIF"/> -->
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=14&duration=2200&pause=700&color=FF4655&center=true&vCenter=true&width=620&height=36&lines=BUILD+MODE%3A+ONLINE;CURIOSITY%3A+UNLIMITED;NEXT+IDEA%3A+LOADING..." alt="Animated build status" />
-
-</div>
-
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## ⚡ Tech Stack
 
-<div align="center">
+<sub>Edit this list so it only shows what you genuinely use.</sub>
 
-**PROGRAMMING**  
-<img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js&theme=dark" alt="C++, Java, Python, HTML, CSS, JavaScript" />
+**Programming**<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js&theme=dark" alt="C++, Java, Python, HTML, CSS, JavaScript"/>
 
-**SOFTWARE & TOOLS**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,git,github,blender,linux,vscode&theme=dark" alt="React, Next.js, Node.js, Firebase, Git, GitHub, Blender, Linux, VS Code" />
+**Software**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,git,github&theme=dark" alt="React, Next.js, Node.js, Firebase, Git, GitHub"/>
 
-**HARDWARE & ENGINEERING**  
-<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Arduino and MATLAB" />
-<br />
-<img src="https://img.shields.io/badge/ESP32-7B2FF7?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-<img src="https://img.shields.io/badge/LoRa-00D9FF?style=for-the-badge&logoColor=white" alt="LoRa" />
-<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-FF4655?style=for-the-badge" alt="Embedded Systems" />
-<img src="https://img.shields.io/badge/VLSI-7B2FF7?style=for-the-badge" alt="VLSI" />
+**Hardware**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Arduino, MATLAB"/>
+<img src="https://img.shields.io/badge/ESP32-7B2FF7?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge&logoColor=white" alt="IoT"/>
+<img src="https://img.shields.io/badge/Embedded_Systems-FF4655?style=for-the-badge" alt="Embedded Systems"/>
+<img src="https://img.shields.io/badge/VLSI-7B2FF7?style=for-the-badge" alt="VLSI"/>
 
-</div>
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=blender,ubuntu,linux,vscode,git&theme=dark" alt="Blender, Ubuntu, Linux, VS Code, Git"/>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
 ## 🚀 Project Showcase
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚑 MediReach</h3>
-      Emergency communication concept using ESP32 and LoRa mesh networking.
-      <br /><br />
-      <code>ESP32</code> <code>LoRa</code> <code>Mesh Networking</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧲 Zero Contact X</h3>
-      Magnetic levitation platform concept with magnetic repulsion and Arduino-based closed-loop control.
-      <br /><br />
-      <code>Arduino</code> <code>Control Systems</code> <code>Electromagnetics</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 THE STUDENT</h3>
-      Academic notes portal concept using Next.js, Firebase Authentication, and Firestore.
-      <br /><br />
-      <code>Next.js</code> <code>Firebase</code> <code>Firestore</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🕶️ SiliconSorcery AR</h3>
-      Gesture-controlled augmented-reality concept for interactive VLSI learning with MediaPipe and Three.js.
-      <br /><br />
-      <code>MediaPipe</code> <code>Three.js</code> <code>AR</code> <code>VLSI</code>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚑 MediReach
+Emergency communication system using **ESP32** and **LoRa mesh networking**.
+
+`ESP32` `LoRa` `Mesh Networking`
+
+**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧲 Zero Contact X
+Magnetic levitation platform using magnetic repulsion and **Arduino-based closed-loop control**.
+
+`Arduino` `Control Systems` `Electromagnetics`
+
+**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 THE STUDENT
+Academic notes portal using **Next.js**, **Firebase Authentication** and **Firestore**.
+
+`Next.js` `Firebase` `Firestore`
+
+**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕶️ SiliconSorcery AR
+Gesture-controlled **augmented reality concept** for interactive VLSI learning using **MediaPipe** and **Three.js**.
+
+`MediaPipe` `Three.js` `AR` `VLSI`
+
+**Status:** 💡 _Concept_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+
+</td>
+</tr>
 </table>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Dashboard
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/manishkumar250sp-pixel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=F5F7FF&icon_color=7B2FF7&rank_icon=github" alt="GitHub profile statistics" />
-</a>
-<a href="https://github.com/manishkumar250sp-pixel">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&layout=compact&hide_border=true&bg_color=080B16&title_color=00D9FF&text_color=F5F7FF" alt="Most-used programming languages" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&hide_border=false&bg_color=11162A&title_color=00D9FF&text_color=F5F7FF&icon_color=7B2FF7&border_color=7B2FF7" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&layout=compact&bg_color=11162A&title_color=00D9FF&text_color=F5F7FF&border_color=7B2FF7" alt="Most used languages"/>
 
-<br /><br />
+<img src="https://streak-stats.demolab.com?user=manishkumar250sp-pixel&background=11162A&ring=00D9FF&fire=FF4655&currStreakLabel=00D9FF&sideLabels=F5F7FF&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=AAB3CC&stroke=7B2FF7&border=7B2FF7" alt="GitHub contribution streak" width="100%" style="max-width:495px"/>
 
-<img src="https://streak-stats.demolab.com?user=manishkumar250sp-pixel&hide_border=true&background=080B16&ring=00D9FF&fire=FF4655&currStreakLabel=00D9FF&sideLabels=F5F7FF&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=AAB3CC" alt="GitHub contribution streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar250sp-pixel&bg_color=080B16&color=00D9FF&line=7B2FF7&point=FF4655&area=true&area_color=7B2FF7&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
-<br /><br />
+<br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar250sp-pixel&bg_color=080B16&color=00D9FF&line=7B2FF7&point=FF4655&area=true&hide_border=true" alt="GitHub contribution activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake.svg"/>
+  <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📡 Find Me
-
-<div align="center">
-
-<a href="https://github.com/manishkumar250sp-pixel">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="Follow Manish on GitHub" />
-</a>
-
-<br /><br />
-
-**Have an idea involving hardware, VLSI, or robotics? Let’s build.**
-
-</div>
+## 📡 Contact
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:7B2FF7,55:25104A,100:080B16&section=footer&text=BUILD%20%2F%20EXPLORE%20%2F%20INNOVATE&fontColor=FFFFFF&fontSize=22&fontAlignY=55&animation=blinking" alt="Animated footer: Build, Explore, Innovate" />
+<a href="https://github.com/manishkumar250sp-pixel"><img src="https://img.shields.io/badge/GitHub-manishkumar250sp-pixel-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Manish_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say_Hello-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=6" width="110" alt="QR code to GitHub profile"/>
+
+**Got a hardware, VLSI or robotics idea? Let's build it.**
+
+<img src="assets/footer.svg" width="100%" alt="Building technology beyond limits - animated footer"/>
 
 </div>
