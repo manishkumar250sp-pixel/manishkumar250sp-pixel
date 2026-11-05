@@ -1,99 +1,128 @@
+<!-- ✅ SELF-CONTAINED: this README needs NO other files to render. -->
 <div align="center">
 
-<img src="assets/header.svg" alt="Manish Kumar - animated neon header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:00D9FF,100:FF4655&height=270&section=header&text=MANISH%20KUMAR&fontSize=62&fontColor=F5F7FF&fontAlignY=38&animation=twinkling&desc=ELECTRONICS%20%C3%97%20VLSI%20%C3%97%20ROBOTICS%20%C3%97%20CODE&descSize=20&descAlignY=60" alt="Manish Kumar banner" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Electronics+%26+Communication+Engineer;Hardware+%2B+Software+Developer;VLSI+Enthusiast;Robotics+%26+Embedded+Systems;Building+Technology+Beyond+Limits" alt="Typing animation: Electronics and Communication Engineer, Hardware + Software Developer, VLSI Enthusiast, Robotics and Embedded Systems, Building Technology Beyond Limits"/>
+<a href="https://github.com/manishkumar250sp-pixel">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=720&height=55&lines=Electronics+%26+Communication+Engineer;Hardware+%2B+Software+Developer;VLSI+Enthusiast;Robotics+%26+Embedded+Systems;Building+Technology+Beyond+Limits" alt="Typing text: Electronics and Communication Engineer, Hardware + Software Developer, VLSI Enthusiast, Robotics and Embedded Systems, Building Technology Beyond Limits"/>
+</a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views counter"/>
+<img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/manishkumar250sp-pixel?label=FOLLOWERS&style=for-the-badge&color=00D9FF&labelColor=11162A" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/manishkumar250sp-pixel?affiliations=OWNER&label=STARS&style=for-the-badge&color=FF4655&labelColor=11162A" alt="GitHub stars"/>
+
+<br/>
+
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact_Me-FF4655?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/manishkumar250sp-pixel"><img src="https://img.shields.io/badge/GitHub-Follow-7B2FF7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3&section=header" width="100%" alt=""/>
 
-## 🧑‍🚀 About Me
+## 🧑‍🚀 &nbsp;ABOUT ME
 
 <table>
 <tr>
-<td align="center" width="30%">
-<img src="https://github.com/manishkumar250sp-pixel.png?size=200" width="160" alt="Manish Kumar GitHub avatar" style="border-radius:50%"/>
-<br/><br/>
-<b>Manish Kumar</b><br/>
+<td align="center" width="32%">
+
+<img src="https://github.com/manishkumar250sp-pixel.png?size=240" width="170" alt="Manish Kumar GitHub profile picture"/>
+
+**Manish Kumar**<br/>
 <sub>ECE Student · Presidency University, Bengaluru</sub>
-<br/><br/>
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=6" width="110" alt="QR code linking to github.com/manishkumar250sp-pixel"/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=8" width="110" alt="QR code to github.com/manishkumar250sp-pixel"/>
+
 </td>
-<td width="70%">
+<td width="68%">
 
-I'm an **Electronics and Communication Engineering** student at **Presidency University, Bengaluru**, working where hardware meets software.
+```text
+┌─[ manish@presidency-univ ]─[~/profile]
+└─▶ whoami
+    Electronics & Communication Engineering student
 
-- 🔬 **Domains:** Electronics · VLSI · Robotics · Embedded Systems · IoT · AI · Software Development
-- 🛠️ **I build:** ESP32/LoRa systems, Arduino control loops, web apps, and AR learning tools
-- 🎯 **Goal:** turn engineering ideas into working, useful products
+┌─[ manish@presidency-univ ]─[~/profile]
+└─▶ cat domains.txt
+    Electronics · VLSI · Robotics · Embedded Systems
+    IoT · AI · Software Development
 
-> *"Build things that outlive the doubt."*
+┌─[ manish@presidency-univ ]─[~/profile]
+└─▶ echo $MISSION
+    Turn engineering ideas into working technology
+```
+
+> 💬 *"Build things that outlive the doubt."*
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7B2FF7&height=3&section=header" width="100%" alt=""/>
 
-## 🎴 Anime Squad
+## 🎴 &nbsp;ANIME SQUAD
 
-<sub>Original emblem cards inspired by the characters' spirit. Optional animated GIF slots are in the README source (see SETUP.md).</sub>
-
+<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="assets/naruto.svg" alt="Naruto Uzumaki card: The Never-Give-Up Engineer" width="100%"/>
-<!-- OPTIONAL GIF: <img src="PASTE_NARUTO_GIF_URL" width="100%" alt="Naruto animated GIF"/> -->
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF8A1F,100:7B2FF7&height=150&section=header&text=NARUTO%20UZUMAKI&fontSize=26&fontColor=F5F7FF&fontAlignY=40&desc=Never%20Give%20Up%20%E2%80%A2%20Debug%20one%20more%20time&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Naruto Uzumaki: never give up, debug one more time"/>
 </td>
-<td width="50%" align="center">
-<img src="assets/itachi.svg" alt="Itachi Uchiha card: The Silent Strategist" width="100%"/>
-<!-- OPTIONAL GIF: <img src="PASTE_ITACHI_GIF_URL" width="100%" alt="Itachi animated GIF"/> -->
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:FF4655,100:11162A&height=150&section=header&text=ITACHI%20UCHIHA&fontSize=26&fontColor=F5F7FF&fontAlignY=40&desc=Calm%20systems%20%E2%80%A2%20Precise%20execution&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Itachi Uchiha: calm systems, precise execution"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<img src="assets/obito.svg" alt="Obito Uchiha card: The Comeback Arc" width="100%"/>
-<!-- OPTIONAL GIF: <img src="PASTE_OBITO_GIF_URL" width="100%" alt="Obito animated GIF"/> -->
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7B2FF7,100:080B16&height=150&section=header&text=OBITO%20UCHIHA&fontSize=26&fontColor=F5F7FF&fontAlignY=40&desc=Every%20failed%20build%20is%20a%20plot%20twist&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Obito Uchiha: every failed build is a plot twist"/>
 </td>
-<td width="50%" align="center">
-<img src="assets/goku.svg" alt="Goku card: The Limitless Learner" width="100%"/>
-<!-- OPTIONAL GIF: <img src="PASTE_GOKU_GIF_URL" width="100%" alt="Goku animated GIF"/> -->
+<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00D9FF,100:FF8A1F&height=150&section=header&text=GOKU&fontSize=30&fontColor=080B16&fontAlignY=40&desc=Train%20daily%20%E2%80%A2%20Ship%20daily%20%E2%80%A2%20Go%20beyond&descSize=14&descAlignY=65&animation=fadeIn" width="100%" alt="Goku: train daily, ship daily, go beyond"/>
 </td>
 </tr>
 </table>
+</div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<!--
+ ADD REAL ANIME GIFs (always works, no link rot):
+ 1. Click the pencil (edit) on this README on github.com
+ 2. Drag a .gif from your computer into the editor. GitHub inserts a line like
+    ![image](https://github.com/user-attachments/assets/xxxxxxxx)
+ 3. Paste that line right under the matching card above.
+ Find GIFs on giphy.com / tenor.com -> Download -> .gif
+-->
 
-## ⚡ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:FF4655&height=3&section=header" width="100%" alt=""/>
 
-<sub>Edit this list so it only shows what you genuinely use.</sub>
+## ⚡ &nbsp;TECH STACK
 
-**Programming**<br/>
+<sub>Delete anything you don't genuinely use.</sub>
+
+<div align="center">
+
+**💻 PROGRAMMING**<br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,py,html,css,js&theme=dark" alt="C++, Java, Python, HTML, CSS, JavaScript"/>
 
-**Software**<br/>
+**🌐 SOFTWARE**<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,firebase,git,github&theme=dark" alt="React, Next.js, Node.js, Firebase, Git, GitHub"/>
 
-**Hardware**<br/>
-<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Arduino, MATLAB"/>
+**🔌 HARDWARE**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" alt="Arduino, MATLAB"/><br/>
 <img src="https://img.shields.io/badge/ESP32-7B2FF7?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
 <img src="https://img.shields.io/badge/IoT-00D9FF?style=for-the-badge&logoColor=white" alt="IoT"/>
 <img src="https://img.shields.io/badge/Embedded_Systems-FF4655?style=for-the-badge" alt="Embedded Systems"/>
 <img src="https://img.shields.io/badge/VLSI-7B2FF7?style=for-the-badge" alt="VLSI"/>
 
-**Tools**<br/>
+**🛠️ TOOLS**<br/>
 <img src="https://skillicons.dev/icons?i=blender,ubuntu,linux,vscode,git&theme=dark" alt="Blender, Ubuntu, Linux, VS Code, Git"/>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+</div>
 
-## 🚀 Project Showcase
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF4655,100:7B2FF7&height=3&section=header" width="100%" alt=""/>
+
+## 🚀 &nbsp;PROJECT SHOWCASE
 
 <table>
 <tr>
@@ -102,9 +131,9 @@ I'm an **Electronics and Communication Engineering** student at **Presidency Uni
 ### 🚑 MediReach
 Emergency communication system using **ESP32** and **LoRa mesh networking**.
 
-`ESP32` `LoRa` `Mesh Networking`
+`ESP32` · `LoRa` · `Mesh Networking`
 
-**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+**Status:** ⚙️ *edit status* &nbsp;|&nbsp; [📂 Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
 
 </td>
 <td width="50%" valign="top">
@@ -112,9 +141,9 @@ Emergency communication system using **ESP32** and **LoRa mesh networking**.
 ### 🧲 Zero Contact X
 Magnetic levitation platform using magnetic repulsion and **Arduino-based closed-loop control**.
 
-`Arduino` `Control Systems` `Electromagnetics`
+`Arduino` · `Control Systems` · `Electromagnetics`
 
-**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+**Status:** ⚙️ *edit status* &nbsp;|&nbsp; [📂 Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
 
 </td>
 </tr>
@@ -124,50 +153,55 @@ Magnetic levitation platform using magnetic repulsion and **Arduino-based closed
 ### 📚 THE STUDENT
 Academic notes portal using **Next.js**, **Firebase Authentication** and **Firestore**.
 
-`Next.js` `Firebase` `Firestore`
+`Next.js` · `Firebase` · `Firestore`
 
-**Status:** ⚙️ _Update status_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+**Status:** ⚙️ *edit status* &nbsp;|&nbsp; [📂 Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🕶️ SiliconSorcery AR
-Gesture-controlled **augmented reality concept** for interactive VLSI learning using **MediaPipe** and **Three.js**.
+Gesture-controlled **AR concept** for interactive VLSI learning using **MediaPipe** and **Three.js**.
 
-`MediaPipe` `Three.js` `AR` `VLSI`
+`MediaPipe` · `Three.js` · `AR` · `VLSI`
 
-**Status:** 💡 _Concept_ · [Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
+**Status:** 💡 Concept &nbsp;|&nbsp; [📂 Repo](https://github.com/manishkumar250sp-pixel/REPO-NAME)
 
 </td>
 </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:00D9FF&height=3&section=header" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+## 📊 &nbsp;GITHUB STATS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&hide_border=false&bg_color=11162A&title_color=00D9FF&text_color=F5F7FF&icon_color=7B2FF7&border_color=7B2FF7" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&bg_color=11162A&title_color=00D9FF&text_color=F5F7FF&icon_color=7B2FF7&border_color=7B2FF7" alt="GitHub stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar250sp-pixel&layout=compact&bg_color=11162A&title_color=00D9FF&text_color=F5F7FF&border_color=7B2FF7" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=manishkumar250sp-pixel&background=11162A&ring=00D9FF&fire=FF4655&currStreakLabel=00D9FF&sideLabels=F5F7FF&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=AAB3CC&stroke=7B2FF7&border=7B2FF7" alt="GitHub contribution streak" width="100%" style="max-width:495px"/>
+<img src="https://streak-stats.demolab.com?user=manishkumar250sp-pixel&background=11162A&ring=00D9FF&fire=FF4655&currStreakLabel=00D9FF&sideLabels=F5F7FF&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=AAB3CC&stroke=7B2FF7&border=7B2FF7" alt="Contribution streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar250sp-pixel&bg_color=080B16&color=00D9FF&line=7B2FF7&point=FF4655&area=true&area_color=7B2FF7&hide_border=true" alt="Contribution activity graph" width="100%"/>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=manishkumar250sp-pixel&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies"/>
 
+</div>
+
+### 🐍 Contribution Snake
+
+<!-- Appears AFTER you add .github/workflows/snake.yml and run it once (see steps). Delete this block if you skip the snake. -->
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake.svg"/>
   <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:FF4655&height=3&section=header" width="100%" alt=""/>
 
-## 📡 Contact
+## 📡 &nbsp;CONTACT
 
 <div align="center">
 
@@ -177,10 +211,10 @@ Gesture-controlled **augmented reality concept** for interactive VLSI learning u
 
 <br/><br/>
 
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=6" width="110" alt="QR code to GitHub profile"/>
+**Got a hardware, VLSI or robotics idea? Let's build it. ⚡**
 
-**Got a hardware, VLSI or robotics idea? Let's build it.**
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https%3A%2F%2Fgithub.com%2Fmanishkumar250sp-pixel&color=7B2FF7&bgcolor=F5F7FF&margin=8" width="110" alt="QR code to GitHub profile"/>
 
-<img src="assets/footer.svg" width="100%" alt="Building technology beyond limits - animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4655,50:00D9FF,100:7B2FF7&height=140&section=footer&text=BUILDING%20TECHNOLOGY%20BEYOND%20LIMITS&fontSize=22&fontColor=F5F7FF&fontAlignY=65&animation=twinkling" width="100%" alt="Building technology beyond limits footer"/>
 
 </div>
