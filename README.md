@@ -10,116 +10,105 @@
 
 ---
 
-## ⚡ ANIME CHARACTER GALLERY
+## ⚡ ANIME SHINOBI HEROES & ID CARD
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="33%">
-      <b>Naruto Uzumaki</b><br><br>
-      <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Naruto Uzumaki" />
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?w=500&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="Naruto Shinobi" /><br>
+      <b>NARUTO UZUMAKI — HOKAGE PATH</b>
     </td>
-    <td align="center" width="33%">
-      <b>Itachi Uchiha</b><br><br>
-      <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Itachi Uchiha" />
-    </td>
-    <td align="center" width="33%">
-      <b>Obito Uchiha</b><br><br>
-      <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Obito Uchiha" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <b>Kakashi Hatake</b><br><br>
-      <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Kakashi Hatake" />
-    </td>
-    <td align="center" width="33%">
-      <b>Goku</b><br><br>
-      <img src="https://images.unsplash.com/photo-1563089145-599997674d42?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Goku" />
-    </td>
-    <td align="center" width="33%">
-      <b>Levi Ackerman</b><br><br>
-      <img src="https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=400&q=80" width="260" height="160" style="object-fit: cover; border-radius: 8px;" alt="Levi Ackerman" />
+    <td align="center" width="50%">
+      <img src="https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&q=80" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="Uchiha Clan" /><br>
+      <b>ITACHI UCHIHA — SHARINGAN EYES</b>
     </td>
   </tr>
 </table>
+
+<br>
+
+<!-- Custom Anime Shinobi ID Card Matrix -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=170D2B&title_color=00E5FF&text_color=FFFFFF&icon_color=A855F7&custom_title=SHINOBI%20ID:%20MANISH%20KUMAR" alt="Shinobi ID Card" />
+</p>
 </div>
 
 ---
 
-## 🎯 ABOUT ME
+## 📜 S-RANK MISSIONS (ABOUT ME)
 
 <table>
   <tr>
     <td width="70%">
       <p align="justify">
-        Hey! I'm <b>Manish Kumar</b>, an Electronics and Communication Engineering student at <b>Presidency University, Bengaluru</b>. I enjoy combining hardware and software to develop practical engineering solutions. My interests include embedded systems, VLSI, robotics, artificial intelligence, IoT, and 3D simulation. I enjoy learning new technologies and turning ideas into real-world projects.
+        Hey! I'm <b>Manish Kumar</b>, an Electronics and Communication Engineering student at <b>Presidency University, Bengaluru</b>. I combine hardware circuits and software logic to build next-gen systems. My core missions span embedded systems, VLSI design, robotics, artificial intelligence, IoT, and 3D simulation. Always leveling up and turning ambitious code into reality!
       </p>
     </td>
     <td width="30%" align="center">
-      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&q=80" width="220" style="border-radius: 10px; border: 2px solid #00E5FF;" alt="Engineering" />
+      <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=400&q=80" width="220" style="border-radius: 10px; border: 2px solid #00E5FF;" alt="Cyber Engineering" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ TECH STACK AND SKILLS
+## ⚔️ JUTSU & TECH STACK
 
-### 💻 Programming
+### 💻 Programming Jutsus
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java" alt="Programming Skills" />
 </p>
 
-### ⚡ Electronics
+### ⚡ Electronics Arsenal
 <p>
   <img src="https://skillicons.dev/icons?i=arduino,embedded,sensors,circuit" alt="Electronics Skills" />
 </p>
 
-### 📐 Engineering
+### 📐 Engineering & Hardware Lab
 <p>
   <img src="https://skillicons.dev/icons?i=matlab,blender,vlsi,electronics" alt="Engineering Skills" />
 </p>
 
-### 🚀 Development & Tools
+### 🚀 Development & Cloud Shrines
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,html,css,firebase" alt="Development Skills" />
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🛠️ FEATURED S-RANK PROJECTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><b>Real-Time Tracking System</b></h3>
-      <p><b>Tech Stack:</b> Arduino Uno, ESP-01, NEO-6M GPS, Firebase, LCD & Web Interface</p>
-      <p>A real-time tracking solution designed to monitor location coordinates and broadcast data seamlessly to a web dashboard via Firebase.</p>
+      <p><b>Tools:</b> Arduino Uno, ESP-01, NEO-6M GPS, Firebase, LCD & Web Interface</p>
+      <p>High-precision live tracking module broadcasting live geographical coordinates to a cloud telemetry dashboard.</p>
     </td>
     <td width="50%" valign="top">
       <h3><b>Food Safety Monitoring System</b></h3>
-      <p><b>Tech Stack:</b> Arduino Uno, MQ-3 Sensor, RG1602A LCD, LEDs & Buzzer</p>
-      <p>An intelligent monitoring prototype engineered to detect chemical/alcohol vapors in food products and trigger instant alerts.</p>
+      <p><b>Tools:</b> Arduino Uno, MQ-3 Sensor, RG1602A LCD, LEDs & Buzzer</p>
+      <p>Intelligent sensor array programmed to detect vapor concentrations and safeguard food quality standards.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><b>University VR Simulation</b></h3>
-      <p><b>Tech Stack:</b> Blender, 3D Modelling & Virtual Reality</p>
-      <p>Immersive 3D virtual reality simulation of campus environments built for interactive architectural visualization and exploration.</p>
+      <p><b>Tools:</b> Blender, 3D Modelling & Virtual Reality</p>
+      <p>Immersive digital twin of campus facilities optimized for interactive virtual reality walk-throughs.</p>
     </td>
     <td width="50%" valign="top">
       <h3><b>Campus Guide Robot</b></h3>
-      <p><b>Tech Stack:</b> Robotics, AI, Voice Interaction, Navigation & Object Recognition</p>
-      <p>An autonomous navigation robot equipped with computer vision and voice interaction capabilities to assist campus visitors.</p>
+      <p><b>Tools:</b> Robotics, AI, Voice Interaction, Navigation & Object Recognition</p>
+      <p>Autonomous mobile agent integrated with computer vision and voice commands for campus navigation.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 📊 SHINOBI STATS & VILLAGE METRICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manishkumar250sp-pixel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=170D2B&title_color=00E5FF&text_color=FFFFFF&icon_color=A855F7" alt="GitHub Stats" />
@@ -128,12 +117,12 @@
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar250sp-pixel&theme=tokyonight&bg_color=170D2B&color=00E5FF&line=A855F7&point=FF3155&area=true&hide_border=true" alt="Contribution Activity Graph" />
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS&background=170D2B" alt="Profile Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=manishkumar250sp-pixel&color=00e5ff&style=for-the-badge&label=SHINOBI+VISITORS&background=170D2B" alt="Profile Visitor Counter" />
 </div>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION SNAKE SCROLL
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/manishkumar250sp-pixel/manishkumar250sp-pixel/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
@@ -141,19 +130,19 @@
 
 ---
 
-## 🔭 CURRENTLY EXPLORING
+## 🔭 CURRENTLY MASTERING (DOJO FOCUS)
 
-* **VLSI & Semiconductor Technology:** Designing integrated circuits and semiconductor device architectures.
-* **Embedded Systems:** Building low-level firmware and hardware-software interfaces.
-* **Robotics:** Developing autonomous mobile platforms and kinematics controllers.
-* **Artificial Intelligence:** Integrating machine learning algorithms into edge hardware.
-* **Computer Vision:** Implementing object detection and real-time image processing.
-* **Internet of Things:** Connecting sensor nodes to cloud infrastructures.
-* **3D Modelling & VR:** Creating interactive virtual environments and simulations.
+* **VLSI & Semiconductor Technology:** Architecting micro-scale silicon layouts and timing parameters.
+* **Embedded Systems:** Writing robust bare-metal firmware and low-level drivers.
+* **Robotics:** Tuning closed-loop PID controls and sensor fusion algorithms.
+* **Artificial Intelligence:** Deploying neural network models on edge hardware.
+* **Computer Vision:** Processing real-time video feeds for obstacle detection.
+* **Internet of Things:** Fabricating smart connected micro-nodes.
+* **3D Modelling & VR:** Crafting virtual worlds and interactive environments.
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONNECT WITH THE HOKAGE NETWORK
 
 * **GitHub:** [manishkumar250sp-pixel](https://github.com/manishkumar250sp-pixel)
 
@@ -162,7 +151,7 @@
 <div align="center">
 
 ### BUILD. EXPLORE. INNOVATE.
-*Always learning. Always building.*
+*Always learning. Always building like a true ninja.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=170D2B&height=100&section=footer" width="100%">
 
